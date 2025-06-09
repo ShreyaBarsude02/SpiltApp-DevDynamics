@@ -1,4 +1,4 @@
-package com.splitapp.backend.splitapp;
+package com.splitapp.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
